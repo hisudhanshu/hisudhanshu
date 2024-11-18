@@ -12,9 +12,6 @@
 ---
 
 ### 🚀 About Me:
-<p align="center">
-  <img src="https://img.shields.io/static/v1?message=Working%20at%20Digdarshak%20Infotech&logo=digdarshak&label=&color=0e75b6&logoColor=white&style=for-the-badge" alt="Digdarshak Infotech" />
-</p>
 
 - 🔭 **Currently working on**: [**Digdarshak Infotech Pvt. Ltd**](https://www.digdarshak.com/)
 - 🌱 **Learning**: **ASP.NET Web Forms & .NET Framework**
