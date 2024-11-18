@@ -80,13 +80,6 @@
 
 ---
 
-### 🖼️ Tech GIF for Fun:
-<p align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="Fun Gif" />
-</p>
-
----
-
 ### 🎮 Connect with me on Social Media:
 <p align="center">
   <a href="https://www.youtube.com/c/yourchannel" target="_blank">
@@ -142,8 +135,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
