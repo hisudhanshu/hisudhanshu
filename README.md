@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Digdarshak Infotech Pvt.Ltd](https://webadhyayan.com/default.aspx)
+- 🔭 I’m currently working on [Digdarshak Infotech Pvt.Ltd](https://www.digdarshak.com/)
 
 - 🌱 I’m currently learning **asp.net Web Form & .NET Framework**
 
