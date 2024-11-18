@@ -71,7 +71,7 @@
 ### 🖥️ Check out my profile:
 - **[Portfolio](https://yourportfolio.com)**
 - **[GitHub](https://github.com/yourusername)**
-- **[LinkedIn](https://www.linkedin.com/in/yourusername)**
+- **[LinkedIn](https://www.linkedin.com/in/sudhanshu-bharti-035208218)**
 
 ---
 
