@@ -23,15 +23,6 @@
 
 ---
 
-🔧 **Technologies I work with:**
-
-- **Languages**: C#, JavaScript, Python, HTML, CSS
-- **Frameworks**: ASP.NET, .NET, React, Angular
-- **Tools**: Docker, SQL Server, MySQL, Postman, Git
-
-
----
-
 ### 👨‍💻 Connect with me:
 <p align="center">
   <a href="https://linkedin.com/in/sudhanshu-bharti-035208218/" target="_blank">
