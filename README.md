@@ -59,11 +59,6 @@
 
 ---
 
-### 🖥️ Check out my profile:
-- [![Portfolio](https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://yourportfolio.com)
-- [![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/hisudhanshu)
-- [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0e76a8&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/sudhanshu-bharti-035208218)
-
 ---
 
 ### 🧑‍💻 Fun Fact:
