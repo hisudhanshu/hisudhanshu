@@ -1,9 +1,6 @@
 <h1  align="center ">Hi 👋, I'm Sudhanshu Bharti</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=hisudhanshu&label=Profile%20views&color=0e75b6&style=flat" alt="hisudhanshu" /> 
-</p>
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/sudhanshu-bharti-035208218/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
