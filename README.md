@@ -118,3 +118,8 @@
 </div>
 
 ###
+
+## 🏁 **Thanks for Visiting!**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=%23FF00FF&center=true&vCenter=true&lines=Happy+Coding!;Stay+Motivated!;Keep+Learning!;Connect+With+Me!;Enjoy+Your+Day!" alt="Typing SVG" />
+</p>
