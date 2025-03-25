@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=%2300FF00&center=true&vCenter=true&lines=Hi+👋,+I'm+Sudhanshu+;" alt="Typing SVG" />
 </h1>
-<h1  align="center ">Hi 👋, I'm Sudhanshu Bharti</h1>
+<!-- <h1  align="center ">Hi 👋, I'm Sudhanshu Bharti</h1> -->
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center"> 
