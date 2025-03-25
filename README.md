@@ -59,6 +59,11 @@
 
 ---
 
+## 🎨 **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,tailwind,dotnet,csharp,python" />
+</p>
+
 ### 🎮 Connect with me on Social Media:
 <p align="center">
   <a href="https://www.youtube.com/c/yourchannel" target="_blank">
