@@ -38,7 +38,6 @@
   <img src="https://skillicons.dev/icons?i=angular,bootstrap,dotnet,csharp,html,css,js,python" />
 </p>
 ---
----
 
 ### 🌱 Active Projects:
 - **ASP.NET Web Form Projects**: Building robust applications for real-world usage.
