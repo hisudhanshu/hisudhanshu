@@ -17,7 +17,7 @@
 
 ### 🚀 About Me:
 
-- 🔭 **Currently working on**: [**Digdarshak Infotech Pvt. Ltd**](https://www.digdarshak.com/)
+<!--  - 🔭 **Currently working on**: [**Digdarshak Infotech Pvt. Ltd**](https://www.digdarshak.com/) -->
 - 🌱 **Learning**: **ASP.NET Web Forms & .NET Framework**
 - 💻 **Passionate** about building dynamic web applications and exploring new technologies.
 - 📫 **Reach me**: [sudhanshubharti1999@gmail.com](mailto:sudhanshubharti1999@gmail.com)
